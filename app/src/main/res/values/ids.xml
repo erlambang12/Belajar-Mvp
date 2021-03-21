@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt_alas" type="id" />
+    <item name="edt_tinggi" type="id" />
+    <item name="btn_hitung_luas" type="id" />
+</resources>
